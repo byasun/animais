@@ -1,0 +1,9 @@
+public class Animais {
+    public String nome;
+    public double peso;
+
+    public Animais(String nome, double peso) {
+        this.nome = nome;
+        this.peso = peso;
+    }
+}
